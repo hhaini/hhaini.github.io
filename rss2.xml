@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>雨落飘零</title>
+    <link>http://yoursite.com/</link>
+    <atom:link href="/rss2.xml" rel="self" type="application/rss+xml"/>
+    
+    <description></description>
+    <pubDate>Thu, 26 Apr 2018 13:24:29 GMT</pubDate>
+    <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>Github+hexo+next博客搭建与优化主题资料整合</title>
+      <link>http://yoursite.com/2018/04/24/hello-world/</link>
+      <guid>http://yoursite.com/2018/04/24/hello-world/</guid>
+      <pubDate>Tue, 24 Apr 2018 11:58:19 GMT</pubDate>
+      <description>
+      
+        
+        
+          &lt;p&gt;在各位大佬资料的帮助下，终于把属于自己的博客完成得七七八八了&lt;br&gt;在搭建博客的过程中吸收了很多前辈们的经验，我也来试着整合一下（盗一波大佬们的博客）&lt;br&gt;希望能帮助你们！&lt;/p&gt;
+&lt;h2 id=&quot;hexo本地项目及与GitHub仓库的关联&quot;&gt;&lt;a href=&quot;#hexo
+        
+      
+      </description>
+      
+      <content:encoded><![CDATA[<p>在各位大佬资料的帮助下，终于把属于自己的博客完成得七七八八了<br>在搭建博客的过程中吸收了很多前辈们的经验，我也来试着整合一下（盗一波大佬们的博客）<br>希望能帮助你们！</p><h2 id="hexo本地项目及与GitHub仓库的关联"><a href="#hexo本地项目及与GitHub仓库的关联" class="headerlink" title="hexo本地项目及与GitHub仓库的关联"></a>hexo本地项目及与GitHub仓库的关联</h2><p>按照步骤来都没啥大问题的，一些小问题可以问度娘<br><a href="http://luogjy.com" target="_blank" rel="noopener">使用GitHub和hexo搭建博客过程</a><br>如果博客的css没有加载进来，传上来的只有各种文字<br>这时候要在项目根目录下的_config.yml文件中寻找url，将url后面加上你博客的地址就可以了<br>比如我的url<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ 【url: https://hhaini.github.io/】</span><br></pre></td></tr></table></figure></p><h3 id="next主题的优化"><a href="#next主题的优化" class="headerlink" title="next主题的优化"></a>next主题的优化</h3><h3 id="32种个性化教程（包括大多数你需要的东西）"><a href="#32种个性化教程（包括大多数你需要的东西）" class="headerlink" title="32种个性化教程（包括大多数你需要的东西）"></a>32种个性化教程（包括大多数你需要的东西）</h3><p><a href="https://www.jianshu.com" target="_blank" rel="noopener">hexo的next主题个性化教程:打造炫酷网站</a><br><a href="https://reuixiy.github.io" target="_blank" rel="noopener">打造个性超赞博客Hexo+NexT+GithubPages的超深度优化</a><br>这些都是写的比较好的大神们的</p><h3 id="gitalk评论系统"><a href="#gitalk评论系统" class="headerlink" title="gitalk评论系统"></a>gitalk评论系统</h3><p><a href="https://asdfv1929.github.io" target="_blank" rel="noopener">Hexo NexT主题中集成gitalk评论系统</a><br>额，我还没整完这个呢</p><h3 id="结束语"><a href="#结束语" class="headerlink" title="结束语"></a>结束语</h3><p>这就是我两天半的成果了，希望这些能对大家有所帮助，如果有帮助希望你们能到处分享一下~<br>跪谢大佬们！<br>本博客以后还会更新一些关于前端学习方面的文章，诸如jsp,HTML5<del>~</del>~</p>]]></content:encoded>
+      
+      <comments>http://yoursite.com/2018/04/24/hello-world/#disqus_thread</comments>
+    </item>
+    
+  </channel>
+</rss>
